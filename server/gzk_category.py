@@ -1,7 +1,7 @@
 from typing import Any, Dict, List, Optional, Tuple
 import re, os, hashlib, time, urllib.parse as _u
 from bs4 import BeautifulSoup
-from .index_utils import SESS, HEADERS, http_get_cached, urljoin, HTML_DIR
+from index_utils import SESS, HEADERS, http_get_cached, urljoin, HTML_DIR
 
 SEED_URL = "https://gzk.rks-gov.net/ActsByCategoryInst.aspx?Index=3&InstID={inst_id}&CatID={cat_id}"
 
