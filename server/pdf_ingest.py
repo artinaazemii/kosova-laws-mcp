@@ -13,7 +13,7 @@ except Exception:
     pass
 
 from pdfminer.layout import LAParams
-from .index_utils import download_pdf, read_text_cache, write_text_cache, INDEX_PATH, soup_for
+from index_utils import download_pdf, read_text_cache, write_text_cache, INDEX_PATH, soup_for
 
 ARTICLE_PATTERNS = [
     r"(?mi)^Neni\s+\d+[\.:]?",
