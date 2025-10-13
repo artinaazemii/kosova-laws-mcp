@@ -4,13 +4,13 @@ Kosova Laws MCP është një Model Context Protocol (MCP) server i personalizuar
 
 Ky projekt ka për qëllim të bëjë të dhënat ligjore të Kosovës më të qasshme, të kërkueshme dhe të kuptueshme, duke përdorur teknologjitë moderne të AI-së.
 
-🌐 Serveri publik
+**Serveri publik**
 
 Serveri është i hostuar dhe aktiv në këtë adresë publike:
-👉 https://kosova-laws-mcp-production.up.railway.app/sse
+  https://kosova-laws-mcp-production.up.railway.app/sse
 Ky URL mund të lidhet drejt me ChatGPT përmes funksionit MCP Connector.
 
-⚙️ Si të lidhet me ChatGPT
+**Si të lidhet me ChatGPT**
 
 Për ta përdorur këtë MCP, nevojitet një llogari ChatGPT Plus.
 Hapat për konfigurim:
@@ -29,7 +29,7 @@ Hapat për konfigurim:
 
 Pasi të krijohet lidhja, ChatGPT do të përdorë automatikisht këtë MCP për kërkime në bazën ligjore të Kosovës.
 
-💬 Shembuj pyetjesh
+**Shembuj pyetjesh**
 Pasi të jetë krijuar lidhja me MCP serverin, përdoruesi mund të parashtrojë pyetje natyrale në gjuhën shqipe, për të kërkuar informacione ligjore nga Gazeta Zyrtare e Republikës së Kosovës.
 Disa shembuj:
 “Cilat ligje janë publikuar në vitin 2025?”
@@ -37,7 +37,7 @@ Disa shembuj:
 “Në cilin ligj trajtohet arsimi i lartë?”
 
 
-⚠️ Shënim
+**Shënim**
 
 Ndonjëherë, ChatGPT mund të tentojë të bëjë kërkim në internet në vend që të përdorë MCP-n.
 Në atë rast, mjafton t’i thuash:
@@ -45,7 +45,7 @@ Në atë rast, mjafton t’i thuash:
 Pas kësaj, ChatGPT do ta drejtojë pyetjen tek serveri yt MCP dhe do të ofrojë rezultatet zyrtare nga Gazeta Zyrtare.
 
 
-🎯 Qëllimi i projektit
+**Qëllimi i projektit**
 
 Ky projekt është zhvilluar për të demonstruar mënyrën se si inteligjenca artificiale dhe të dhënat publike mund të kombinohen për të përmirësuar qasjen në drejtësi dhe transparencën ligjore.
 Duke u lidhur direkt me Gazetën Zyrtare të Republikës së Kosovës, MCP-ja mundëson që çdo qytetar, student apo studiues të marrë informacione të sakta dhe të përditësuara mbi ligjet e vendit përmes një ndërfaqeje inteligjente.
