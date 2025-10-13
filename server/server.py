@@ -4,9 +4,9 @@ from typing import List, Dict, Any, Optional, Tuple
 from fastmcp import FastMCP
 from rapidfuzz import process, fuzz
 
-from .index_utils import BASE, INDEX_PATH
-from .gzk_category import crawl_category
-from .pdf_ingest import pdf_to_text_cached, split_articles, build_snippet, add_to_index
+from index_utils import BASE, INDEX_PATH
+from gzk_category import crawl_category
+from pdf_ingest import pdf_to_text_cached, split_articles, build_snippet, add_to_index
 
 
 mcp = FastMCP("kosovo-laws-mcp")
