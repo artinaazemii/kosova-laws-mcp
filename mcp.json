@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "Kosovo Laws MCP": {
+      "command": "cmd",
+      "args": ["/c", "C:/Users/DELL/Desktop/kosova-laws-mcp/run_server.cmd"],
+      "autoRestart": true
+    }
+  }
+}

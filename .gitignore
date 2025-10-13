@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Cache and logs
+*.log
+*.tmp
+*.sqlite3
+.cache/
+*.db
+*.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode and IDEs
+.vscode/
+.idea/
+
+# MCP index & local data
+data/
+index/
+*.lock
+*.jsonl
