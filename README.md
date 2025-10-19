@@ -41,7 +41,7 @@ Disa shembuj:
 
 Ndonjëherë, ChatGPT mund të tentojë të bëjë kërkim në internet në vend që të përdorë MCP-n.
 Në atë rast, mjafton t’i thuash:
-“Përdor Kosovo Laws MCP (emrin që e vendose tek hapi 4) në vend që të kërkosh në web.”
+“Përdor tools te Kosovo Laws MCP (emrin që e vendose tek hapi 4) në vend që të kërkosh në web.”
 Pas kësaj, ChatGPT do ta drejtojë pyetjen tek serveri yt MCP dhe do të ofrojë rezultatet zyrtare nga Gazeta Zyrtare.
 
 
