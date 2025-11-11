@@ -7,7 +7,7 @@ Ky projekt ka për qëllim të bëjë të dhënat ligjore të Kosovës më të q
 **Serveri publik**
 
 Serveri është i hostuar dhe aktiv në këtë adresë publike:
-  [https://kosova-laws-mcp-production.up.railway.app/sse](https://76dc5fd4-c29f-4aa4-a82a-5c57f5132144-00-1z8im0xlygfib.janeway.replit.dev/sse)
+  https://76dc5fd4-c29f-4aa4-a82a-5c57f5132144-00-1z8im0xlygfib.janeway.replit.dev/sse
 Ky URL mund të lidhet drejt me ChatGPT përmes funksionit MCP Connector.
 
 **Si të lidhet me ChatGPT**
