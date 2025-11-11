@@ -22,7 +22,7 @@ Hapat për konfigurim:
   Name: vendos një emër sipas dëshirës (p.sh. Kosova Laws ose Legal MCP)
   Description: shkruaj një përshkrim të shkurtër (p.sh. Kërkim dhe qasje në ligjet zyrtare të Kosovës)
   URL:
-  https://kosova-laws-mcp-production.up.railway.app/sse
+  [https://kosova-laws-mcp-production.up.railway.app/sse](https://76dc5fd4-c29f-4aa4-a82a-5c57f5132144-00-1z8im0xlygfib.janeway.replit.dev/sse)
   (nëse dëshiron të përdorësh serverin “Kosova Laws MCP”, duhet të vendosësh saktësisht këtë link)
   Authentication: zgjidh No authentication
   Kliko Create
